@@ -3,7 +3,6 @@ package cleancode;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
 public class HouseRentTest {
 	@Test
 	public void testCalculate() {
